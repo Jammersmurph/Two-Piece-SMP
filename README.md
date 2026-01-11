@@ -1,2 +1,2 @@
-# Dungeon-Crawlers-SMP
-Official repository of the Minecraft server: Dungeon Crawlers SMP.
+# Two Piece SMP
+Official repository of the Minecraft server: Two Piece SMP
